@@ -1,0 +1,6 @@
+[book]
+authors = ["Alan Ramírez Herrera"]
+language = "en"
+multilingual = false
+src = "src"
+title = "Fichas Técnicas \"Aprendizaje Máquina\""
